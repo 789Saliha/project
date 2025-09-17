@@ -1,0 +1,41 @@
+Traveller_Type,Airline,SVD_Score
+Solo Leisure,Singapore Airlines,4.370861069626263
+Solo Leisure,Qatar Airways,9.556428757689245
+Solo Leisure,All Nippon Airways,7.587945476302646
+Solo Leisure,Emirates,6.387926357773329
+Solo Leisure,Japan Airlines,2.4041677639819286
+Solo Leisure,Turkish Airlines,2.403950683025824
+Solo Leisure,Air France,1.5227525095137953
+Solo Leisure,Cathay Pacific Airways,8.795585311974417
+Solo Leisure,EVA Air,6.41003510568888
+Solo Leisure,Korean Air,7.372653200164409
+Family Leisure,Singapore Airlines,1.185260448662222
+Family Leisure,Qatar Airways,9.72918866945795
+Family Leisure,All Nippon Airways,8.491983767203795
+Family Leisure,Emirates,2.9110519961044856
+Family Leisure,Japan Airlines,2.636424704863906
+Family Leisure,Turkish Airlines,2.650640588680904
+Family Leisure,Air France,3.7381801866358395
+Family Leisure,Cathay Pacific Airways,5.72280788469014
+Family Leisure,EVA Air,4.887505167779041
+Family Leisure,Korean Air,3.6210622617823773
+Business,Singapore Airlines,6.506676052501415
+Business,Qatar Airways,2.2554447458683766
+Business,All Nippon Airways,3.629301836816963
+Business,Emirates,4.297256589643226
+Business,Japan Airlines,5.104629857953324
+Business,Turkish Airlines,8.066583652537123
+Business,Air France,2.7970640394252375
+Business,Cathay Pacific Airways,5.628109945722504
+Business,EVA Air,6.331731119758382
+Business,Korean Air,1.4180537144799796
+Couple Leisure,Singapore Airlines,6.467903667112945
+Couple Leisure,Qatar Airways,2.5347171131856236
+Couple Leisure,All Nippon Airways,1.5854643368675156
+Couple Leisure,Emirates,9.539969835279999
+Couple Leisure,Japan Airlines,9.690688297671034
+Couple Leisure,Turkish Airlines,8.275576133048151
+Couple Leisure,Air France,3.741523922560336
+Couple Leisure,Cathay Pacific Airways,1.8790490260574548
+Couple Leisure,EVA Air,7.158097238609412
+Couple Leisure,Korean Air,4.961372443656412
